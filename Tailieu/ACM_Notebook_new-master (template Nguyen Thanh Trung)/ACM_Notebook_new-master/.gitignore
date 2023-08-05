@@ -1,0 +1,19 @@
+.fuse*
+*.exe
+*.dSYM/
+*.swp
+*.class
+input.txt
+output.txt
+
+# Compiled code
+template
+
+# Gen test
+gentest*
+*.test
+in
+
+# IDE
+*.sublime-project
+*.sublime-workspace
